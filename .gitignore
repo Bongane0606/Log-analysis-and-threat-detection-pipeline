@@ -4,3 +4,4 @@ wordlist.txt
 users.txt
 __pycache__/
 *.pyc
+venv/
