@@ -7,3 +7,4 @@
 
 ## Normal traffic
 - Manual logins as labuser (some correct, some mistyped) for baseline comparison.
+| 2026-10-22 09:56 | sshpass loop | Slow brute force (evasion) | labuser@127.0.0.1 | 8 attempts, ~90s apart, wordlist.txt. No alert triggered — stayed under 5-in-5min threshold |
